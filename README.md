@@ -4,21 +4,25 @@
 
 1. Prepare your virtual environment.
 
-```console
-pip3 install virtualenv
-python3 -m venv ENV
-source ENV/bin/activate
-```
+    ```console
+    pip3 install virtualenv
+    python3 -m venv ENV
+    source ENV/bin/activate
+    ```
 
 2. Using pip install requirements:
 
-```console
-pip3 install -r requirements.txt
-```
+    ```console
+    pip3 install -r requirements.txt
+    ```
 
 3. Run program with arguments:
 
-```console
-python3 program.py --help
-```
+    ```console
+    python3 program.py --help
+    ```
+
+    ```console
+    python3 poc.py "pl,en,de,fr,ru" "Powstanie Warszawskie"
+    ```
 
