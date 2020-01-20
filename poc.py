@@ -41,7 +41,7 @@ def search_for_keywords(content, ln, keywords):
             fw.close()
 
         for keyword in translated_keywords:
-            hits_nb = content.count(" {} ".format(keyword))
+            hits_nb = content.count(" {}".format(keyword))
             if hits_nb > 0:
                 keyword_hits.append((keyword, hits_nb))
 
