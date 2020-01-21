@@ -1,56 +1,54 @@
 serbatoio
-carri armati
 hitler
-campagna di settembre
-Westerplatte
+campagna di settembr
+westerplatte
 olocausto
-ebrei
 ebreo
-capitolazione
-ussr
+capitoli
+urss
 attacco
 attacchi
 campo
 campi
-asservimento
+schiavitù
 asservire
-esercito rosso
-esercito di casa
-terzo Reich
+esercito ross
+inizio eserc
+iii foll
 battaglia
-guerra fredda
+guerra fredd
 blitzkrieg
-rivolta di Varsavia
-Patto di non aggressione
-stato sotterraneo
-occupante
+varsavia rivolt
+patto di non aggression
+stato sotterrane
+invasore
 occupanti
-arrotondare
-arrotondare
+roundup
+retata
 aggressione
 aggressivo
 spietato
-misericordia
-Senza pietà
-sparare
+peccato
+senza piet
+shoot
 macello
-salire
+rivolta
 arma
 armamento
 cartucce
 perdita
 innocente
 sorpresa
-imboscata
-la sconfitta
+agguato
+sconfitta
 fallimento
-massacro
+strage
 fame
-Morte
+morte
 morire
-Gestapo
+gestapo
 occupazione
-la libertà
+libertà
 invasione
 omicidio
 tortura
@@ -58,11 +56,11 @@ difendere
 difesa
 stupro
 esperimenti
-sperimentare
+esperimento
 bombardamento
 raid
 bomba
-demolire
+relitto
 devastazione
 artiglieria
 propaganda
@@ -80,32 +78,30 @@ ritirarsi
 ritiro
 passivo
 paura
-sollievo
-temere
+soccorso
 canali
-autunno
-inumano
+cadere
 inumano
 comunista
 crimine
 nazismo
-Mein Kampf
-Himmler
+mein kampf
+himmler
 auschwitz
-Treblinka
-Brzezinka
+treblinka
+brzezinka
 egzegucja
 distruzione
 indipendenza
-penale
+criminale
 squadrone
 negoziare
-Katyn
-combattimento in Polonia
+katyn
+polonia combatt
 fascismo
-campo di concentramento
+campo di concentr
 vittime
-Rivestimento
+incursione
 popolazione
 esplosione
 esplosioni
@@ -114,52 +110,52 @@ espulsione
 bombe
 tradimento
 assalto
-Birkenau
+birkenau
 annessione
 prigionieri
 sterminio
 opposizione
-Tedesco
+tedesco
 russo
-gratuito
-campo di lavoro
+gratis
+campo di lavor
 impunità
-Camera a gas
+camera a gas
 uccisione
-b ciclone
+b ciclon
 fenolo
-fuga
+scappare
 immorale
 razzismo
 sterilizzazione
-test
+prova
 resistenza
 punire
 vittima
 crimini
 fuggitivo
-fame
+inedia
 falsificazione
 esecuzioni
 minoranza
 nazionale
 stanco
-Pilecki
+pilecki
 ghetto
-campo di sterminio
+campo di stermin
 bombardieri
 alleati
-Aiuto
+aiuto
 martire
-ss uomo
-NSDAP
-i bolscevichi
-Hitlerjugend
+ss uom
+nsdap
+i bolscev
+hitlerjugend
 coinvolgimenti
 lavoro
 menzogna
 ingannare
-pubblicazione
+rilascio
 sguinzagliare
 cospirazione
 ribellione
