@@ -1,6 +1,6 @@
 czołg
 hitler
-kampani wrześniow
+kampania wrześniowa
 westerplatte
 holokaust
 żyd
@@ -11,15 +11,14 @@ obóz
 oboz
 niewol
 zniewol
-armi czerwon
-armi krajow
-iii rzesz
+armia czerwona
+armia krajowa
+iii rzesza
 bitw
-zimn wojn
-wojn błyskawiczn
-powstani warszawski
+zimna wojna
+wojna błyskawiczna
 pakt o nieagresji
-państw podziemne
+państwo podziemne
 okupan
 łapank
 agresj
@@ -29,13 +28,12 @@ litoś
 bezlitośnie
 rozstrzela
 rzeż
-powstanie
 broń
 uzbrojeni
 amunicj
 strat
 niewinn
-zaskoczeni
+zaskocz
 zasadzk
 porażk
 masakr
@@ -65,19 +63,20 @@ artyleri
 propagand
 cenzur
 cywil
-powstańc
+powstań
+powstani
 partyza
 oficer
 zmasakrow
-godzin w
+godzina w
 zwycięstw
 wróg
 wrog
 nieprzyjaciel
-wycofa się
+wycofać się
 odwrót
 pasywn
-obawia się
+obawiać się
 odsiecz
 strach
 bać się
@@ -101,7 +100,7 @@ zbrodniarz
 dywizjon
 pertraktowa
 katyń
-polsk walcząc
+polska walcząca
 faszyzm
 obóz koncentracyj
 ofiar
@@ -121,12 +120,13 @@ jeńc
 eksterminacj
 opozycj
 niemieck
+niemc
 rosyjsk
 oswobodzi
 obóz pracy
 więźnio
 bezkarn
-komor gazow
+komora gazowa
 zagład
 zabija
 mordowa
@@ -143,7 +143,7 @@ ofiar
 zbrodni
 blitzkrieg
 uciekinier
-śmier głodow
+śmierć głodowa
 fałszowani
 egzekucj
 mniejszoś

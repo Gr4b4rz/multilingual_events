@@ -1,12 +1,10 @@
 tank
-tanks
 hitler
 september campaign
 westerplatte
 holocaust
-jews
 jew
-capitulation
+chapters
 ussr
 attack
 attacks
@@ -14,15 +12,15 @@ camp
 camps
 enslavement
 enslave
-red army
-home army
+red armi
+home armi
 third reich
 battle
 cold war
 blitzkrieg
-warsaw uprising
+warsaw upris
 non-aggression pact
-underground state
+underground st
 occupant
 occupiers
 roundup
@@ -101,7 +99,7 @@ criminal
 squadron
 negotiate
 katyn
-poland fighting
+poland fight
 fascism
 concentration camp
 victims
@@ -124,9 +122,9 @@ russian
 free
 labor camp
 impunity
-gas chamber
+gas chamb
 killing
-b cyclone
+b cyclon
 phenol
 escape
 immoral
@@ -153,7 +151,7 @@ help
 martyr
 ss man
 nsdap
-the bolsheviks
+the bolshevik
 hitlerjugend
 entanglements
 job

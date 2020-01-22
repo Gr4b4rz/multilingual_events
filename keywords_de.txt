@@ -1,21 +1,19 @@
 tank
-panzer
 hitler
 september-kampagne
 wester
 holocaust
-juden
 jude
-kapitulation
+chapters
 ussr
 angriff
 angriffe
 lager
 sklaverei
 versklaven
-rote armee
-startseite armee
-iii masse
+rote arme
+startseite arme
+iii mass
 schlacht
 kalter krieg
 blitzkrieg
@@ -99,7 +97,7 @@ verbrecher
 staffel
 verhandeln
 katyn
-polen kämpfen
+polen kampf
 faschismus
 kz
 opfer
