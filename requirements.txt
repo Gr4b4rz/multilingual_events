@@ -4,3 +4,6 @@ argparse
 prettytable
 requests
 lxml
+elasticsearch
+nltk
+
